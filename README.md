@@ -1,9 +1,7 @@
 # The-Effects-of-Different-Types-of-Fiscal-Spending-on-Different-Economies
-## Overview of Project
-We chose to look at 5 countries for our study. Those countries are France, Turkey, India, the United Kingdom(UK), the United States (US). We chose these countries in part because we wanted a fairly diverse group of countries. But in order to conduct a complete analysis, we needed large amounts of public information on each country’s economies. Those two factors determined our five countries. We also decided to use recent data, from the years 2011 to 2015. 
 
 ### Purpose
-To test the effects of different types of fiscal spending on different economies. 
+To test the effects of different types of fiscal spending on different economies, look at 5 countries from the years 2011 to 2015. Those countries are France, Turkey, India, the United Kingdom(UK), the United States (US).
 The unit for time is years, and the unit for GDPPC is the US dollar. The unit for GDPPC_C is the percentage change in GDPPC.
 
 
