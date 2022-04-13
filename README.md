@@ -18,7 +18,9 @@ The data provided is from a set of 5 countries during 5 common years. The data w
 We will predict the effect that federal spending composition has on GDPPC. This will be achieved through the following predictor variables: 
 
 Defense (Defense spending as a percentage of total fiscal expense);
+
 Education (Education spending as a percentage of total fiscal expense);
+
 Health (Health spending as a percentage of total fiscal expense).
 
 Our Response variable is GDPPC_C (Percent change in GDPPC).
