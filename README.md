@@ -62,7 +62,7 @@ The p-value of the coefficient Education is .864, which is above the .05 signifi
 
 The adjustedR2value did not improve over Model 1. The adjusted R2is .0842. This indicates that about 8.42% of the variance in GDPPC_C can be explained by Defense spending and Education spending. This is terrible news for this model as that indicates that the vast majority of the variance is properly described by variables other than Defense or Education.
 
-### Fitting and assessing GDPPC_C vs. Education + Health
+### Fitting and assessing GDPPC_C vs. Defense + Health
 ![4](https://user-images.githubusercontent.com/38533045/163077260-67c4d62c-1aee-42fc-918b-af2ac295455f.png)
 
 The Multiple Regression Model for this relationship is:
@@ -83,7 +83,7 @@ Model 1 had the lowest AIC value.
 Model 1 had the highest adjusted R2value of the models tested.
 Model 1 is statistically significant because the p-value is less than .05
 
-Analyzing the Best Model
+### Analyzing the Best Model
 Model 1: GDPPC_C = .765(Defense) - .047 is the best model for this data.
 
 
