@@ -1,4 +1,4 @@
-# T-test---The-Effects-of-Different-Types-of-Fiscal-Spending-on-Different-Economies
+# The-Effects-of-Different-Types-of-Fiscal-Spending-on-Different-Economies
 ## Overview of Project
 We chose to look at 5 countries for our study. Those countries are France, Turkey, India, the United Kingdom(UK), the United States (US). We chose these countries in part because we wanted a fairly diverse group of countries. But in order to conduct a complete analysis, we needed large amounts of public information on each country’s economies. Those two factors determined our five countries. We also decided to use recent data, from the years 2011 to 2015. 
 
