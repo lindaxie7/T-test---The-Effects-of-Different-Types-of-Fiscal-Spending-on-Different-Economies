@@ -14,7 +14,7 @@ The unit for time is years, and the unit for GDPPC is the US dollar. The unit fo
 The data provided is from a set of 5 countries during 5 common years. The data was collected through the website https://countryeconomy.com/ along with data from https://datacommons.org/ 
 
 
-### ## Analysis 
+## Analysis 
 We will predict the effect that federal spending composition has on GDPPC. This will be achieved through the following predictor variables: 
 
 Defense (Defense spending as a percentage of total fiscal expense);
@@ -37,7 +37,7 @@ Forward Selection: Model 2: GDPPC_ = Defense + Education
 
 All Subsets: Model 3: GDPPC_ = Defense + Health
 
-Fitting and assessing GDPPC_C vs. Defense
+### Fitting and assessing GDPPC_C vs. Defense
 ![Untitled2](https://user-images.githubusercontent.com/38533045/163076843-543df829-8b8a-43c9-b9ff-eb7bd878a522.png)
 
 
@@ -48,7 +48,7 @@ This means for every 1% increase in defense spending as a percent of total fisca
 
 The p-value of the coefficient Defense is .0481, just barely below the .05 significance level. This would indicate that the relationship between Defense and GDPPC_C is statistically significant. While just barely passing the statistically significant metric, the adjusted r^2 value is .1228. This indicates that about 12.28% of the variance in GDPPC_C can be explained by Defense spending. This is terrible news for this model as that indicates that the vast majority of the variance is properly described by variables other than Defense.
 
-Fitting and assessing GDPPC_C vs. Defense + Education
+### Fitting and assessing GDPPC_C vs. Defense + Education
 
 
 The Multiple Regression Model for this relationship is:
@@ -62,7 +62,7 @@ The p-value of the coefficient Education is .864, which is above the .05 signifi
 
 The adjustedR2value did not improve over Model 1. The adjusted R2is .0842. This indicates that about 8.42% of the variance in GDPPC_C can be explained by Defense spending and Education spending. This is terrible news for this model as that indicates that the vast majority of the variance is properly described by variables other than Defense or Education.
 
-Fitting and assessing GDPPC_C vs. Education + Health
+### Fitting and assessing GDPPC_C vs. Education + Health
 
 
 The Multiple Regression Model for this relationship is:
