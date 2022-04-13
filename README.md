@@ -8,7 +8,7 @@ The unit for time is years, and the unit for GDPPC is the US dollar. The unit fo
 
 
 ### Dataset:
-
+![Untitled](https://user-images.githubusercontent.com/38533045/163076572-100ba846-6284-4be8-a14f-eead2c5fd505.png)
 
 
 The data provided is from a set of 5 countries during 5 common years. The data was collected through the website https://countryeconomy.com/ along with data from https://datacommons.org/ 
@@ -30,8 +30,10 @@ Choosing which variables to assess
 Three models will be assessed. One from Backward Elimination, one from Forward Selection, one from all subsets. All calculations will use AIC. If a model is already being assessed the second best will be used.
 
 Backward Elimination: Model 1: GDPPC_C = Defense
-Forward Selection: Model 4: GDPPC_ = Defense + Education
-All Subsets: Model 5: GDPPC_ = Defense + Health
+
+Forward Selection: Model 2: GDPPC_ = Defense + Education
+
+All Subsets: Model 3: GDPPC_ = Defense + Health
 
 Fitting and assessing GDPPC_C vs. Defense
 
