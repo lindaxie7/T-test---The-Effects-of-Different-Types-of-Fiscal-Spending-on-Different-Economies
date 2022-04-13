@@ -86,13 +86,10 @@ Model 1 is statistically significant because the p-value is less than .05
 ### Analyzing the Best Model
 Model 1: GDPPC_C = .765(Defense) - .047 is the best model for this data.
 
-
-
-
-
-
-
-
+![Untitled5](https://user-images.githubusercontent.com/38533045/163077538-4962e6e0-630c-4768-84d8-61f5deb29345.png)
+![Untitled6](https://user-images.githubusercontent.com/38533045/163077545-5a276c96-724a-4ecc-ad8d-011137e996e4.png)
+![Untitled7](https://user-images.githubusercontent.com/38533045/163077549-8f0f15a7-bd94-4674-ac9b-7862b4d4240b.png)
+![Untitled8](https://user-images.githubusercontent.com/38533045/163077559-6556f8e0-db0f-4d0f-b70d-a27c59528a89.png)
 
 
 After viewing the assumption plots we can see that the points are fairly spread out. We can see that the normal Q-Q plot is fairly linear and positive. This means that our results are normal. We already know that independence has been violated.
