@@ -38,7 +38,7 @@ Forward Selection: Model 2: GDPPC_ = Defense + Education
 All Subsets: Model 3: GDPPC_ = Defense + Health
 
 Fitting and assessing GDPPC_C vs. Defense
-
+![Untitled2](https://user-images.githubusercontent.com/38533045/163076843-543df829-8b8a-43c9-b9ff-eb7bd878a522.png)
 
 
 The simple linear regression model for this relationship is:
