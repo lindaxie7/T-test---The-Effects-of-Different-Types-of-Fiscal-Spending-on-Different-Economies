@@ -49,7 +49,7 @@ This means for every 1% increase in defense spending as a percent of total fisca
 The p-value of the coefficient Defense is .0481, just barely below the .05 significance level. This would indicate that the relationship between Defense and GDPPC_C is statistically significant. While just barely passing the statistically significant metric, the adjusted r^2 value is .1228. This indicates that about 12.28% of the variance in GDPPC_C can be explained by Defense spending. This is terrible news for this model as that indicates that the vast majority of the variance is properly described by variables other than Defense.
 
 ### Fitting and assessing GDPPC_C vs. Defense + Education
-
+![Untitled3](https://user-images.githubusercontent.com/38533045/163077191-bbcafd2d-c680-4746-880d-259e75933b99.png)
 
 The Multiple Regression Model for this relationship is:
 GDPPC_C = .719(Defense) + .155(Education) - .063
